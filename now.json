@@ -1,0 +1,5 @@
+{
+  "name": "friend-connect",
+  "alias": "friend-connect.now.sh",
+  "dotenv": true
+}
